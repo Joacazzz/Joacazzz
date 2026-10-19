@@ -4,7 +4,7 @@ Sou um desenvolvedor focado em construir coisas que funcionam (na maior parte do
 
 - 🔭 Trabalhando com arquitetura de software, APIs e quebrando servidores em laboratório.
 - 🌱 Estudando ativamente microsserviços, observabilidade e infraestrutura como código.
-- ⚡ Fato inútil: Conserto problemas com *Silver Tape* e scripts em Python.
+
 
 - ### 🛠️ Linguagens e Tecnologias
 
