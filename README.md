@@ -29,8 +29,3 @@ Sou um desenvolvedor focado em construir coisas que funcionam (na maior parte do
 
 </div>
 
-## 📈 Contribution Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joacazzz&theme=tokyo-night&hide_border=true" alt="Joaquim's GitHub Activity Graph" width="100%" />
-</a>
