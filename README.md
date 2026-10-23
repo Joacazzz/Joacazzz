@@ -29,8 +29,6 @@ Sou um desenvolvedor focado em construir coisas que funcionam (na maior parte do
 
 </div>
 
-## 🏆 Conquistas
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Joacazzz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+[![Joacazzz](https://github-readme-activity-graph.vercel.app/graph?username=Joacazzz&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
