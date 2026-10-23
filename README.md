@@ -17,6 +17,18 @@ Sou um desenvolvedor focado em construir coisas que funcionam (na maior parte do
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joacazzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Joacazzz&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacazzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
 ### 📊 Estatísticas
 
 <div align="center">
