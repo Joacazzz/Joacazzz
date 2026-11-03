@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Joaquim" width="100%">
+  <img src="banner.png.jpg" alt="Banner Joaquim" width="100%">
 </p>
 
 # Olá, eu sou o Joaquim 👋
