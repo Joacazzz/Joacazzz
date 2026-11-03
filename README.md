@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Joaquim — Software Engineer, Infra & DevOps. Foco em construir aplicações resilientes e infraestrutura escalável." />
+  <img src="banner.jpg" width="100%" alt="Joaquim — Software Engineer, Infra & DevOps. Foco em construir aplicações resilientes e infraestrutura escalável." />
 </p>
 
 <p align="center"><strong>🟢 Aberto para oportunidades e projetos</strong></p>
@@ -49,5 +49,5 @@
 
 <br />
 
-<p align="center"><a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/VAMOS_TIRAR_SUA_IDEIA_DO_PAPEL?-D32F2F?style=for-the-badge" alt="Let's make your next idea real." /></a></p>
-<p align="center"><a href="mailto:seuemail@gmail.com"><strong>seuemail@gmail.com</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Joacazzz">@Joacazzz no GitHub ↗</a></p>
+<p align="center"><a href="mailto:bjoaquim242@gmail.com"><img src="https://img.shields.io/badge/VAMOS_TIRAR_SUA_IDEIA_DO_PAPEL?-D32F2F?style=for-the-badge" alt="Let's make your next idea real." /></a></p>
+<p align="center"><a href="mailto:bjoaquim242@gmail.com"><strong>bjoaquim242@gmail.com</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Joacazzz">@Joacazzz no GitHub ↗</a></p>
