@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Joaquim — Software Engineer, Infra & DevOps. Foco em construir aplicações resilientes e infraestrutura escalável." />
+  <img src="banner.jpg.jpg" width="100%" alt="Joaquim — Software Engineer, Infra & DevOps. Foco em construir aplicações resilientes e infraestrutura escalável." />
 </p>
 
 <p align="center"><strong>🟢 Aberto para oportunidades e projetos</strong></p>
