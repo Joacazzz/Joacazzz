@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Joaquim" width="100%">
+</p>
+
 # Olá, eu sou o Joaquim 👋
 
 Sou estudante de Desenvolvimento de Software Multiplataforma e atuo na intersecção entre engenharia de software, infraestrutura e redes. Tenho foco na construção de sistemas robustos, desde a arquitetura de APIs e automações até a administração e provisionamento de servidores.
@@ -23,12 +27,4 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e atuo na intersec�
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joacazzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Joacazzz&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacazzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
