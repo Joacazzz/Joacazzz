@@ -5,8 +5,8 @@
 <p align="center"><strong>🟢 Aberto para oportunidades e projetos</strong></p>
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/ME_MANDE_UM_EMAIL-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joaquim" /></a>
-  <a href="https://linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D32F2F" alt="Joaquim on LinkedIn" /></a>
+  <a href="mailto:bjoaquim242@gmail.com"><img src="https://img.shields.io/badge/ME_MANDE_UM_EMAIL-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joaquim" /></a>
+  <a href="https://www.linkedin.com/in/joaquim-barbosa067/"><img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D32F2F" alt="Joaquim on LinkedIn" /></a>
   <a href="https://github.com/Joacazzz?tab=repositories"><img src="https://img.shields.io/badge/MEU_CÓDIGO-1A1A1A?style=for-the-badge&logo=github&logoColor=D32F2F" alt="Explore Joaquim's repositories" /></a>
 </p>
 
